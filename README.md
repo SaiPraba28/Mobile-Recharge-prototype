@@ -11,7 +11,7 @@
 
 ![Home](/mainscreen.jpeg)
 
-![Profile](refundpage.png)
+![Refund](refundpage.jpeg)
 
 ![Query](/queries.jpeg)
 
